@@ -8,7 +8,7 @@ class ProfileContainer extends StatelessWidget {
   const ProfileContainer({
     this.radius = 50,
     this.url,
-    this.placeholder = 'assets/images/img_placeholder.png',
+    this.placeholder = 'assets/images/profile_placeholder.png',
     super.key,
   });
 
